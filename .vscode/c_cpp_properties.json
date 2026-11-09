@@ -1,0 +1,21 @@
+{
+  "configurations": [
+    {
+      "name": "Win32",
+      "includePath": [
+        "${workspaceFolder}/**",
+        "D:/Visual Studio/VisuaI Studio 2022/Community/VC/Tools/MSVC/14.44.35207/include",
+        "D:/Windows Kits/10/Include/10.0.26100.0/ucrt",
+        "D:/Windows Kits/10/Include/10.0.26100.0/shared",
+        "D:/Windows Kits/10/Include/10.0.26100.0/um",
+        "D:/Windows Kits/10/Include/10.0.26100.0/winrt"
+      ],
+      "defines": ["_DEBUG", "UNICODE", "_UNICODE"],
+      "compilerPath": "D:/Visual Studio/VisuaI Studio 2022/Community/VC/Tools/MSVC/14.44.35207/bin/Hostx64/x64/cl.exe",
+      "cStandard": "c17",
+      "cppStandard": "c++17",
+      "intelliSenseMode": "windows-msvc-x64"
+    }
+  ],
+  "version": 4
+}
